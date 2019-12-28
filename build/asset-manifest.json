@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tarun-tha/CONTACTMANAGER.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/tarun-tha/CONTACTMANAGER.git/static/js/main.53fc0248.chunk.js",
+    "main.js.map": "/tarun-tha/CONTACTMANAGER.git/static/js/main.53fc0248.chunk.js.map",
+    "runtime-main.js": "/tarun-tha/CONTACTMANAGER.git/static/js/runtime-main.8f6b236d.js",
+    "runtime-main.js.map": "/tarun-tha/CONTACTMANAGER.git/static/js/runtime-main.8f6b236d.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/tarun-tha/CONTACTMANAGER.git/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.97074a1d.chunk.js": "/tarun-tha/CONTACTMANAGER.git/static/js/2.97074a1d.chunk.js",
+    "static/js/2.97074a1d.chunk.js.map": "/tarun-tha/CONTACTMANAGER.git/static/js/2.97074a1d.chunk.js.map",
+    "index.html": "/tarun-tha/CONTACTMANAGER.git/index.html",
+    "precache-manifest.7a23c009b7a52f71c7902872beb8c15d.js": "/tarun-tha/CONTACTMANAGER.git/precache-manifest.7a23c009b7a52f71c7902872beb8c15d.js",
+    "service-worker.js": "/tarun-tha/CONTACTMANAGER.git/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/tarun-tha/CONTACTMANAGER.git/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/tarun-tha/CONTACTMANAGER.git/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f6b236d.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.97074a1d.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.53fc0248.chunk.js"
+  ]
+}
